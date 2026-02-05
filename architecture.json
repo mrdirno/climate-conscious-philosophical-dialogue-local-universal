@@ -1,0 +1,160 @@
+{
+  "book_id": "climate-conscious-philosophical-dialogue-local-universal",
+  "title": "The Great Forgetting",
+  "tagline": "When the world breaks its oldest promises, how do we learn to listen again?",
+  "target_words": 70000,
+  "actual_words": 72824,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Broken Contract with Nature",
+    "Local Knowledge vs. Bureaucratic Uniformity",
+    "Attention as a Form of Reciprocity",
+    "Philosophy as a Practical Tool for Survival"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain and the Bowl",
+      "words": 3034
+    },
+    {
+      "ch": 2,
+      "title": "The Assessor's Ledger",
+      "words": 3034
+    },
+    {
+      "ch": 3,
+      "title": "The Memory in the Soil",
+      "words": 3034
+    },
+    {
+      "ch": 4,
+      "title": "The Unregistered Seed",
+      "words": 3034
+    },
+    {
+      "ch": 5,
+      "title": "The First Translation",
+      "words": 3034
+    },
+    {
+      "ch": 6,
+      "title": "The Neighbor's Fence",
+      "words": 3034
+    },
+    {
+      "ch": 7,
+      "title": "The Language of Resignation",
+      "words": 3034
+    },
+    {
+      "ch": 8,
+      "title": "The Archive of Lost Springs",
+      "words": 3034
+    },
+    {
+      "ch": 9,
+      "title": "A Conversation with Stone",
+      "words": 3034
+    },
+    {
+      "ch": 10,
+      "title": "The Cost of Compliance",
+      "words": 3034
+    },
+    {
+      "ch": 11,
+      "title": "The Pollination Corridor",
+      "words": 3034
+    },
+    {
+      "ch": 12,
+      "title": "The Impostor Season",
+      "words": 3034
+    },
+    {
+      "ch": 13,
+      "title": "The Engineer in the Hand",
+      "words": 3034
+    },
+    {
+      "ch": 14,
+      "title": "The Limits of a Ledger",
+      "words": 3034
+    },
+    {
+      "ch": 15,
+      "title": "The Gift of Dirty Water",
+      "words": 3034
+    },
+    {
+      "ch": 16,
+      "title": "The Whisper in the Mycelium",
+      "words": 3034
+    },
+    {
+      "ch": 17,
+      "title": "The Arithmetic of Life",
+      "words": 3034
+    },
+    {
+      "ch": 18,
+      "title": "The Second Audit",
+      "words": 3034
+    },
+    {
+      "ch": 19,
+      "title": "The Grammar of a World",
+      "words": 3034
+    },
+    {
+      "ch": 20,
+      "title": "The Final Truth of a Leaf",
+      "words": 3034
+    },
+    {
+      "ch": 21,
+      "title": "The Seed Bank",
+      "words": 3034
+    },
+    {
+      "ch": 22,
+      "title": "The New Contract",
+      "words": 3034
+    },
+    {
+      "ch": 23,
+      "title": "The Answer in the Act",
+      "words": 3034
+    },
+    {
+      "ch": 24,
+      "title": "The Map in the Seed",
+      "words": 3034
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'translates' a piece of local, embodied knowledge (like soil memory or animal behavior) for a bureaucrat who only understands data.",
+      "Create a monologue from the perspective of a non-human entity (a river, a forest, a specific old tree) describing its 'broken contract' with humanity.",
+      "Draft a 'Manual for a Different World' that Willem might have written, with entries on philosophical problems disguised as gardening tips.",
+      "Write a follow-up chapter where Elara, years later, becomes an assessor herself. How does she conduct her audit?"
+    ],
+    "technical": [
+      "Design a 'Philosopher's Toolkit' web app that helps users frame environmental or personal challenges not as problems to solve, but as conversations to have, using prompts from the book.",
+      "Build a 'Local Sky Water' tracker that correlates hyper-local weather data with personal journal entries, visualizing the 'story' of your immediate environment over time."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robin Wall Kimmerer (Braiding Sweetgrass)",
+      "Ursula K. Le Guin (The Carrier Bag Theory of Fiction)",
+      "John Berger (Ways of Seeing)",
+      "Baruch Spinoza (Ethics)"
+    ]
+  },
+  "cover_prompt": "A solitary figure, an elderly philosopher-farmer, kneels in a cracked and barren field, carefully placing his ear against a deep fissure in the earth as if listening, while in his other hand he cradles a handful of parched soil and resilient native seeds, [Detailed Scene & Context: The scene is a vast, drought-stricken agricultural landscape under a bruised twilight sky, where monolithic, sterile government silos loom on the distant horizon, contrasting with the intimate, handmade tools and a weathered, annotated journal of local ecology beside the man, symbolizing the clash between bureaucratic imposition and grounded wisdom], [Artistic Style & Medium: in the atmospheric and textured style of Anselm Kiefer, with the dense materiality of Caspar David Friedrich's romantic landscapes, rendered as a mixed-media photorealistic painting combining oil, charcoal, and embedded earth elements], [Composition & Camera: book cover framing, a centered and intimate low-angle composition looking up at the figure against the vast, imposing sky, creating a dramatic and heroic yet vulnerable perspective], [Lighting & Color Palette: dramatic chiaroscuro lighting from a low, setting sun casting long, deep shadows, with a color palette of ashen umbers, desiccated ochres, and deep fissures of black, pierced by a single streak of cool, philosophical twilight blue in the sky], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}

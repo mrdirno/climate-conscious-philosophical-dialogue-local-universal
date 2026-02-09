@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain on the greenhouse glass was not a patter but a low, constant roar, the sound of the sky trying to erase the land. Inside, the air was thick and warm, smelling of damp soil, chlorophyll, and the faint, sweet rot of overripe tomatoes. Elara did not look up from the leaf. It was a broad, veined thing, a map of a country that no longer existed, cupped in her palm. She traced the yellowing edge with a thumb, the necrosis a slow, dry fire creeping inward.
@@ -122,6 +124,8 @@ It was standing in her garden, tapping numbers into a tablet.
 
 The cold knot in her stomach tightened. This was not a blight that could be treated with comfrey tea or local rainwater. This was the great forgetting, made flesh, made policy, and it had come to tear up their world by the roots.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The audit lasted three hours. Elara spent them in a state of suspended animation, her body performing tasks—locating irrigation charts, opening seed storage bins for inspection—while her mind raced ahead, a scout in hostile territory. She watched Renner’s face as he scanned their world. His expression was not unkind, merely blank, a surface upon which their life made no impression. The intricate companion planting was “spatially inefficient.” The rainwater cistern, lined with native clay, was “a contamination risk.” The compost system, a layered symphony of kitchen scraps, leaf mould, and worm castings, was “biologically unstable.”
@@ -231,6 +235,8 @@ Willem considered her, a new light in his weary eyes. “That,” he said, “is
 “The beans don’t care about the danger,” Elara said, picking up the jar, feeling the collective weight of generations in her hand. “They just know how to grow.”
 
 For the first time since the grey car arrived, Willem smiled a true smile, small but fierce. “Then perhaps,” he said, “we must learn from the beans.”
+
+# Chapter 3
 
 ## **Chapter 3**
 

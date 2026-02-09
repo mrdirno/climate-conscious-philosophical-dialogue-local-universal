@@ -2,7 +2,9 @@
 
 ## **Chapter 1**
 
-The rain on the greenhouse glass was not a patter but a low, constant roar, the sound of the sky trying to erase the land. Inside, the air was thick and warm, smelling of damp soil, chlorophyll, and the faint, sweet rot of overripe tomatoes. Elara did not look up from the leaf. It was a broad, veined thing, a map of a country that no longer existed, cupped in her palm. She traced the yellowing edge with a thumb, the necrosis a slow, dry fire creeping inward.
+Kai’s finger traced the crack in the community garden’s sundial. “Your turn,” he said, not looking up. “Define ‘local.’” Across the dry basil, Anya watched a monarch struggle toward milkweed. Her answer would be a stone dropped into still water; the ripples, they both knew, would reach everything.
+
+
 
 “It’s not the blight,” she said, her voice barely carrying over the rain. “Not the one from the manual.”
 
